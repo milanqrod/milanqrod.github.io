@@ -1,7 +1,7 @@
-# My First GitHub Markdown
+# Hello World!
 
 ## Introduction
-This is a simple markdown file to demonstrate basic formatting.
+
 
 ### Features:
 - **Bold Text**: `**bold text**` → **bold text**
