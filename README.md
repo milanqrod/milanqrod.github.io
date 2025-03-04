@@ -1,10 +1,12 @@
-# Welcome to My Homepage! 👋  
+# Milan Quandt Rodriguez
+## Phd student. DC at the EDUCADO project
+.  
 
-Hi, I'm Milan. This is my personal homepage where I share updates on my projects.  
+### Profile
 
-## 🚀 My Projects  
-- [Project 1](#) – Description here  
-- [Project 2](#) – Another cool project  
+I am currently a doctoral candidate (DC) at the EDUCADO project.
 
-## 📫 Contact  
+### Research
+
+### Contact
 Feel free to reach out at [email@example.com](mailto:email@example.com)
