@@ -1,21 +1,10 @@
-# Hello World!
+# Welcome to My Homepage! 👋  
 
-## Introduction
+Hi, I'm Milan. This is my personal homepage where I share updates on my projects.  
 
+## 🚀 My Projects  
+- [Project 1](#) – Description here  
+- [Project 2](#) – Another cool project  
 
-### Features:
-- **Bold Text**: `**bold text**` → **bold text**
-- *Italic Text*: `*italic text*` → *italic text*
-- `Inline Code`: `` `inline code` `` → `inline code`
-- Lists:
-  - Item 1
-  - Item 2
-  - Item 3
-- [Link Example](https://github.com)
-- ![Image Example](https://via.placeholder.com/150)
-
-> This is a blockquote.
-
-```python
-# This is a code block
-print("Hello, Markdown!")
+## 📫 Contact  
+Feel free to reach out at [email@example.com](mailto:email@example.com)
