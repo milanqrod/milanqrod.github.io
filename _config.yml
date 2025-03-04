@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Milan Quandt Rodriguez
 description: PhD student
+custom_css: assets/style.css
