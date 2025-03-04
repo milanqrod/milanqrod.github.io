@@ -1,3 +1,4 @@
+<img src="assets/images/milan.jpg" alt="Milan Quandt Rodriguez" width="150" style="border-radius: 50%;">
 ### Profile
 
 I am currently a doctoral candidate (DC) at the EDUCADO project.
