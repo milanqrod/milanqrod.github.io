@@ -1,5 +1,6 @@
 # Milan Quandt Rodriguez
-## Phd student. DC at the EDUCADO project
+## *PhD Student – DC at the EDUCADO Project*
+
 
 ### Profile
 
