@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-Hi! I'm a Ph.D. resercher at Istituto Nazionale di Astrofisica (INAF) - Padova applying data analysis techniques within the realm of astrophysics. In 2024 I was lucky enough to be awarded a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) position to be part of the EDUCADO doctoral network. 
+Hi! I'm a Ph.D. resercher at Istituto Nazionale di Astrofisica (INAF) - Padova , where I apply data analysis techniques within the realm of astrophysics. In 2024 I was lucky enough to be awarded a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) position to be part of the EDUCADO doctoral network. 
