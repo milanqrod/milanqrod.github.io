@@ -4,11 +4,11 @@
 title: Milan Quandt Rodriguez
 email: milan.quandt@inaf.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my personal website! 
+  I'm Milan Quandt Rodriguez, a Ph.D. researcher in astrophysics. 
+  Here, I share my work and outreach activities.
 #twitter_username: username
-github_username: username
+#github_username: username
 minimal_mistakes_skin: neon
 search: true
 
@@ -49,7 +49,6 @@ author:
   name   : "Milan Quandt Rodriguez"
   avatar : "/assets/images/ni2.jpg"
   bio    : "PhD student in astronomy."
-  avatar_width: 200px 
   #links:
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
