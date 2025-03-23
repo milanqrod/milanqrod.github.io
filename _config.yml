@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Milan Quandt Rodriguez"
   avatar : "/assets/images/ni2.jpg"
   bio    : "PhD student in astronomy."
   links:
@@ -83,7 +83,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/milan-quandt-142606293/"
 
