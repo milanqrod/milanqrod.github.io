@@ -10,4 +10,4 @@ Hi, I'm Milan! I'm a Ph.D. researcher at the Istituto Nazionale di Astrofisica (
 
 My main scientific interest is to study our own galaxy, the Milky Way. More precisely, I'm interested in understanding how it formed and has evolved into what we observe today through surveys like Gaia, APOGEE, or GALAH. By identifying accreted substructures present in its stellar halo and discerning these from the stars born within the galaxy, I seek to uncover its assembly history.
 
-I enjoy trail running and biking, and mostly listen to post-punk music. Feel free to get in touch.
+I enjoy trail running, biking and listening to post-punk. Feel free to get in touch.
