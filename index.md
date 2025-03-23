@@ -1,6 +1,6 @@
 ---
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: splash
 author_profile: true
 ---
 
