@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 ---
 
-![Milan Quandt Rodriguez](/assets/images/ni2.jpg){: .center-image }
+<img src="/assets/images/ni2.jpg" width="200"/>
 
 Hi, I'm Milan! I'm a Ph.D. researcher at the Istituto Nazionale di Astrofisica (INAF) - Padova, where I apply data analysis techniques to process the vast amounts of data from large-scale stellar surveys and exploit it to its maximum potential. In 2024, I was lucky enough to be awarded a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) position to be part of the recently established [EDUCADO Doctoral Network](https://research.iac.es/proyecto/educado/). 
 
