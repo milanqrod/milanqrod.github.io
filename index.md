@@ -1,7 +1,7 @@
 ---
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
-author_profile: true
+layout: single
+author_profile: false
 ---
 
 Hi, I'm Milan! I'm a Ph.D. researcher at the Istituto Nazionale di Astrofisica (INAF) - Padova, where I apply data analysis techniques to process the vast amounts of data from large-scale stellar surveys and exploit it to its maximum potential. In 2024, I was lucky enough to be awarded a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) position to be part of the recently established [EDUCADO Doctoral Network](https://research.iac.es/proyecto/educado/). 
