@@ -1,27 +1,15 @@
-# Minimal Mistakes remote theme starter
+# Milan Quandt Rodriguez – Personal Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repository contains my personal website built with the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/), hosted on GitHub Pages.  
 
-Contains basic configuration to get you a site with:
+It includes:  
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- A homepage with my bio and photo.  
+- A projects page showcasing my research and outreach projects.  
+- An outreach page highlighting my contributions to [Asteroideiak](https://www.asteroideiak.eus).  
+- Blog posts related to astrophysics and data analysis.  
+- Top navigation, author sidebar, and footer with social links (GitHub, LinkedIn, Email).  
+- Paginated home page and archive pages for posts grouped by year, category, and tag.  
+- Site-wide search.  
 
 ---
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
