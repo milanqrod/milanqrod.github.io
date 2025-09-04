@@ -1,0 +1,52 @@
+---
+# Only required if this is main.scss
+---
+
+/* 1️⃣ Theme variables – override before importing theme */
+$body-bg: #fdf6e3;           // background color
+$body-color: #333333;        // text color
+$accent-color: #ff4500;      // links, buttons
+$link-color: $accent-color;
+$headings-color: #2a2a2a;    // headings
+$font-family-sans: "Lato", sans-serif;
+$font-family-serif: "Merriweather", serif;
+
+/* 2️⃣ Import Minimal Mistakes theme */
+@import "minimal-mistakes";
+
+/* 3️⃣ Additional overrides */
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-serif;
+  color: $headings-color;
+}
+
+body {
+  font-family: $font-family-sans;
+  color: $body-color;
+  background-color: $body-bg;
+}
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darken($accent-color, 10%);
+  text-decoration: underline;
+}
+
+.btn, .button, .highlight {
+  background-color: $accent-color;
+  color: #fff;
+  border-radius: 5px;
+  padding: 0.4em 0.8em;
+}
+
+.btn:hover, .button:hover, .highlight:hover {
+  background-color: darken($accent-color, 10%);
+}
+
+.footer a {
+  color: $accent-color;
+}
