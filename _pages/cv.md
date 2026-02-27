@@ -27,8 +27,4 @@ author_profile: false
 
 # Languages
 
-- **Spanish:** Native  
-- **English:** C1 (Cambridge)  
-- **German:** C1 (Goethe Institut)  
-- **Euskera (Basque):** C1 (EGA certificate)  
-- **French:** Fluent
+My mother lenguages are spanish and euskera (or basque). I also speak german, english, catalan and hopefully, by the time I finish the PhD, italian.
