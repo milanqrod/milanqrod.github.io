@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 ---
 
-<img src="/assets/images/ni2.jpg" width="200" align="left" style="margin-right:15px; margin-bottom:10px;"/>
+<img src="/assets/images/ni.jpeg" width="200" align="left" style="margin-right:15px; margin-bottom:10px;"/>
 
 Hi, I'm Milan! I'm a Ph.D. student at the Istituto Nazionale di Astrofisica (INAF) in Padova, where I apply data analysis techniques to process the vast amounts of data from large-scale stellar surveys and exploit them to their full potential. In 2024, I was fortunate to be awarded a [Marie Skłodowska-Curie Actions (MSCA)](https://marie-sklodowska-curie-actions.ec.europa.eu/) fellowship as part of the recently established [EDUCADO Doctoral Network](https://research.iac.es/proyecto/educado/).  
 
