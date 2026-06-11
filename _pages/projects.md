@@ -4,7 +4,7 @@ title: "Projects"
 author_profile: false
 ---
 
-Here you can find a selection of projects I’m working on. Click on any project to see updates and progress.
+The objective of this page is to give a little bit more insight about the different methods used the different projects I have been working on until now. 
 
 ## Disentangling Stellar Parameters from Spectra 
 [Follow updates →](/projects/disentangle/)
